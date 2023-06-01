@@ -11,7 +11,7 @@ To play the game, you must run make in your terminal.
 
 This will produce an executable file called play.
 
-You then run /.play maze, where maze is your map (saved in maps directory).
+You then run ./play maze, where maze is your map (saved in maps directory).
 
 Within the game's map, players have the freedom to navigate in any of the four cardinal directions using the W, A, S, and D keys.
 
