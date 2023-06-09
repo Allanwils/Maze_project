@@ -1,6 +1,5 @@
-# Project Name
+# Maze_project
 
-[Introduction](#introduction) | [Installation](#installation) | [Usage](#usage) | [Contributing](#contributing) | [Related Projects](#related-projects) | [Licensing](#licensing)
 
 ## Introduction
 
@@ -43,15 +42,17 @@ Make  a Pull Request with a detailed description of changes.
 
 ## Related Projects
 
-[Maze_project](https://github.com/Allanwils/Maze_project)
+[Maze_project ](https://intranet.alxswe.com/concepts/133). alxswe project page
 
 
 ## Licensing
 
-Specify the license under which your project is distributed. Include any relevant copyright or licensing information.
+BSD
 
-## Author(s) LinkedIn
+## Author(s)
+Allan Masiga  [@zionalehebrew@gmail.com](mailto:zionalehebrew@gmail.com)
 
-Include links to the LinkedIn profiles of the author(s) of the project to make it easier for others to connect or learn more about them.
+LinkedIn: [Allan Masiga](https://www.linkedin.com/in/allan-masiga/)
+
 
 
