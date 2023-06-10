@@ -55,6 +55,6 @@ Allan Masiga  [@zionalehebrew@gmail.com](mailto:zionalehebrew@gmail.com)
 LinkedIn: [Allan Masiga](https://www.linkedin.com/in/allan-masiga/)
 
 ## Images
-![screenshot](https://i.imgur.com/zbk32ZL.png)
+![screenshot](https://i.imgur.com/RFLBCgh.png)
 
 
