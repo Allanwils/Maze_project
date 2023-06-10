@@ -30,7 +30,7 @@ Within the game's map, players have the freedom to navigate in any of the four c
 
 ## Contributing
 
-Read the source files in src folder and the header files in inc folder.
+Read the source files in src folder and the header files in headers folder.
 
 Clone the repo and make a new branch: $ git checkout https://github.com/Allanwils/Maze_project -b [name_of_new_branch].
 
